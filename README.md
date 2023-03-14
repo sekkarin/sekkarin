@@ -8,7 +8,7 @@ I've been learning to code for 2 years.
 
 * 🌍  I'm based in ฺฺBangkok
 * ✉️  You can contact me at [sekkri1234@gmail.com](mailto:sekkri1234@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning React Native
 
 ### Skills
 
